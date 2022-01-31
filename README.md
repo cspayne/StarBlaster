@@ -11,7 +11,7 @@ This version is the orginal, basic version of starblaster, using a joystick boar
 - When the joystick is pressed inward, the game displays an explosion as the blaster is fired. 
 - Three-level blaster charge-up. The user must wait for the blaster to charge before using it (indicated by changing color of light, starting at green). If the user waits long enough, a hyper-blaster mode is engaged (blue light), which displays a larger explosion. Using the blaster depletes the charge to zero (red light)
 
-##Starblaster Tilt-Control
+## Starblaster Tilt-Control
 
 This version implements an accelerometer in place of the joystick board. 
 
